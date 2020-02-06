@@ -83,6 +83,7 @@ body {
   text-align: right;
   text-transform: uppercase;
   text-decoration: none;
+  padding: 10px;
   border-bottom: 1px solid gray;
 }
 
@@ -117,7 +118,7 @@ body {
   }
 }
 .listad-noticias {
-  padding-top: 15px;
+  padding-top: 5px;
 }
 
 .noticia {
@@ -125,6 +126,8 @@ body {
   display: inline-block;
   margin: 5px;
   cursor: pointer;
+  /* padding-bottom: 3px;
+  border-bottom: 1px solid gray; */
 }
 
 .cuerpo img {
@@ -134,6 +137,7 @@ body {
 
 .cuerpo p {
   padding: 5px 10px;
+  border-bottom: 1px;
 }
 
 /*# sourceMappingURL=style.css.map */
