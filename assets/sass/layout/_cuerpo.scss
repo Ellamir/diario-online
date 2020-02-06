@@ -1,0 +1,23 @@
+.listad-noticias {
+    padding-top: 5px;
+    
+}
+
+.noticia {
+    width: 210px;
+    display: inline-block;
+    margin: 5px;
+    cursor: pointer;
+    /* padding-bottom: 3px;
+    border-bottom: 1px solid gray; */
+}
+
+.cuerpo img {
+    width: 210px;
+    height: 300px;
+}
+
+.cuerpo p {
+    padding: 5px 10px;
+    border-bottom: 1px;
+}
