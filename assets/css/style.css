@@ -115,8 +115,7 @@ body {
   width: 100%;
   background-color: #f2f4f5;
   text-align: center;
-  padding-top: 10vh;
-  padding-bottom: 10vh;
+  padding: 10vh;
 }
 #newsletter button {
   display: inline-block;
@@ -160,7 +159,7 @@ body {
   }
   .listad-noticias .noticia {
     text-align: center;
-    padding-left: 5px;
+    padding-left: 10px;
     padding-right: 5px;
     display: inline-block;
     margin: 0;
