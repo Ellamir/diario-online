@@ -15,5 +15,9 @@
     text-decoration: none;
     padding: 10px;
     border-bottom: 1px solid gray;
+
+    a, a:link, a:active, a:visited, a:hover {
+        text-decoration: none;
+      }
     
 }
