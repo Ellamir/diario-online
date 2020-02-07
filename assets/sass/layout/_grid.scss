@@ -2,7 +2,7 @@
     .parent {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: 100px 1fr 1fr 1fr 1fr;
+    grid-template-rows: 100px 1fr 1fr 2fr 1fr;
     grid-column-gap: 1px;
     grid-row-gap: 1px;
     -ms-grid-column-align: center;
@@ -22,8 +22,8 @@
         display: grid;
         grid-template-columns: 100%;
         grid-template-rows: 100px 1fr 1fr;
-        grid-column-gap: 5px;
-        grid-row-gap: 5px;
+        grid-column-gap: 1px;
+        grid-row-gap: 1px;
         }
         
         .div1 { grid-area: 1 / 1 / 1 / 1;
